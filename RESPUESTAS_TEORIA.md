@@ -1,28 +1,31 @@
 # Respuestas de teoría
 
-Nombre y apellidos: 
+Nombre y apellidos: Carlos Agusti Canga
 
 ## A1
 
-Respuesta: 
+Respuesta: Falso
 
 ## A2
 
-Respuesta: 
+Respuesta: B
 
 ## A3
 
-Respuesta: 
+Respuesta: C
 
 ## A4
 
-Respuesta: 
+Respuesta: a)RUN b)EXPERIMENTO
 
 ## A5
 
-Respuesta: 
+Respuesta:
+max_depth=4 PARÁMETRO
+F1_validación=0.82 MÉTRICA
+matriz_confusion.png ARTEFACTO
 
 ## A6
 
-Respuesta: 
+Respuesta: B
 
